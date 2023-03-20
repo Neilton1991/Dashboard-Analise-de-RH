@@ -1,5 +1,5 @@
 # Dashboard-Analise-de-RH
-https://app.powerbi.com/view?r=eyJrIjoiMmIyZjFjODAtMjlmNS00ZjY3LWJmOTktY2M5YjE2YmViZmMwIiwidCI6IjEyYzYyYWNjLTdlNTctNGJmYS04ZWVkLTc4ODJhZWMyMzc5MiJ9
+http://bit.ly/403369f
 
 QUESTIONAMENTOS QUE SERÃO RESPONDIDOS ATRAVÉS DO DASHBOARD:
 1.	Quantos funcionários existem atualmente na empresa?
