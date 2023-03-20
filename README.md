@@ -1,7 +1,7 @@
 # Dashboard-Analise-de-RH
 http://bit.ly/403369f
 
-QUESTIONAMENTOS QUE SERÃO RESPONDIDOS ATRAVÉS DO DASHBOARD:
+QUESTIONAMENTOS RESPONDIDOS ATRAVÉS DO DASHBOARD:
 1.	Quantos funcionários existem atualmente na empresa?
 2.	Atualmente, existem mais funcionários do gênero masculino ou do gênero feminino?
 3.	Quantos funcionários existem em cada setor da organização?
